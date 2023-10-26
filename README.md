@@ -1,0 +1,1 @@
+Angular 11 app to perform CRUD operations on Azure Cosmos DB using MSAL and .NET 5 rest API
